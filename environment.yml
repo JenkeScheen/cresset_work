@@ -1,0 +1,11 @@
+name: cresset
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - mamba
+  - scipy
+  - biosimspace==2020.1.0=py37h1de35cc_58
+prefix: /Users/jscheen/anaconda2/envs/cresset
+
